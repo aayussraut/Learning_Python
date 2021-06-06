@@ -16,4 +16,4 @@ Learning Python (COntains Exerices and Examples)
 
 - .py files are imported in PythonP3.ipynb and try_it_yourself_P3.ipynb
 
-- File handling is in seperate repo
+- File handling is in seperate repository
