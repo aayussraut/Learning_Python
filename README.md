@@ -1,4 +1,4 @@
-Learning_Python
+Learning Python (COntains Exerices and Examples)
 
 - Learning Python from Python Crash Course by Eric Matthes
 
@@ -15,3 +15,5 @@ Learning_Python
 - try_it_yourself_P3.ipynb is all the exercise from PythonP3.ipynb
 
 - .py files are imported in PythonP3.ipynb and try_it_yourself_P3.ipynb
+
+- File handling is in seperate repo
